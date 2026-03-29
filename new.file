@@ -1,0 +1,10 @@
+new line' >> new.file
+
+echo new line >> new.file
+
+echo new line >> new.file
+
+echo "new line" >> new.file
+
+echo "new line
+new line
